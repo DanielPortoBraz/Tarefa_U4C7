@@ -85,7 +85,9 @@ Para testar o projeto no simulador Wokwi:
 5. Inicie a simulação e observe o movimento do servo motor.
 
 ## Vídeos de Demonstração
+Simulação no Wokwi: https://youtu.be/5jJCNYnl4GA?si=K4rP03Kc1gNnzdby
 
+Prática na BitDogLab: https://youtube.com/shorts/Cd2VPcV2EVw?feature=share
 
 ## Datasheet do RP2040: [[RP2040 Datasheet – Raspberry Pi](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
 
